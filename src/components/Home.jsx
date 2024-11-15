@@ -509,7 +509,7 @@ function Home() {
 
     
     <div className="overflow-hidden flex flex-col  items-center rounded-lg">
-  <h2 className="text-3xl font-bold pb-10">Location</h2>
+  <h2 className="text-3xl font-bold pb-10">We're Here!!</h2>
   <div className="relative w-full max-w-xl" style={{ paddingTop: "56.25%" }}> {/* 16:9 Aspect Ratio */}
     <iframe
       src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13694.947329945437!2d75.8198879!3d30.8940222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a83ce6b2e77d3%3A0xaff35de0b11471c4!2sGLOBAL%20CHILD%20WELLNESS%20CENTRE!5e0!3m2!1sen!2sin!4v1731579297698!5m2!1sen!2sin"
